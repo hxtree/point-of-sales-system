@@ -1,0 +1,26 @@
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\obj\Debug\POS2.Form1.resources
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\obj\Debug\POS2.Properties.Resources.resources
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\obj\Debug\POS2.csproj.GenerateResource.Cache
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\bin\Debug\POS2.exe
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\bin\Debug\POS2.pdb
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\obj\Debug\POS2.exe
+C:\Users\mjh10250\Documents\Visual Studio 2008\Projects\POS2\POS2\obj\Debug\POS2.pdb
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\POS2.exe
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\POS2.pdb
+C:\Users\Nil\Desktop\POS2\POS2\bin\Debug\POS2.exe
+C:\Users\Nil\Desktop\POS2\POS2\bin\Debug\POS2.pdb
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\POS2.Form1.resources
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\POS2.Properties.Resources.resources
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\POS2.csproj.GenerateResource.Cache
+C:\Users\Nil\Desktop\POS2\POS2\obj\Debug\POS2.splashScreen.resources
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\POS2.exe
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\POS2.pdb
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\bin\Debug\POS2.exe
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\bin\Debug\POS2.pdb
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\POS2.Form1.resources
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\POS2.Properties.Resources.resources
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\POS2.splashScreen.resources
+C:\Users\mjh10250\Desktop\POS2\POS2\POS2\obj\Debug\POS2.csproj.GenerateResource.Cache
